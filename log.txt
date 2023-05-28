@@ -1,0 +1,4 @@
+2023-05-28 09:58:31,488 __main__   INFO     Add: banana - 1 
+2023-05-28 09:58:31,488 __main__   INFO     Add: apple - 1 
+2023-05-28 09:58:31,489 __main__   INFO     Add: orange - 1 
+2023-05-28 09:58:31,489 __main__   INFO     Add: kiwi - 2 
